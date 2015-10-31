@@ -1,0 +1,23 @@
+name: charles
+favicon: null
+layout_spectrum: 0.6753902002237737
+typography_spectrum: 0.5650534003507346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9779367095325142
+  lightness: 0.810037333983928
+  saturation: 0.6080568626057357
+  rhythmicContrast: 0.5078918195795268
+purpose: []
